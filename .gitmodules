@@ -1,0 +1,3 @@
+[submodule "group_autotesting/jmsd_tps_googletest"]
+	path = group_autotesting/jmsd_tps_googletest
+	url = https://github.com/jiteman/jmsd_tps_googletest.git
