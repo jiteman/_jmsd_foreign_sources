@@ -7,6 +7,3 @@
 [submodule "group_foundation/jmsd_tps_poco_cpp"]
 	path = group_foundation/jmsd_tps_poco_cpp
 	url = https://github.com/jiteman/jmsd_tps_poco_cpp.git
-[submodule "group_foundation/jmsd_tps_abseil_cpp"]
-	path = group_foundation/jmsd_tps_abseil_cpp
-	url = https://github.com/jiteman/jmsd_tps_abseil_cpp.git
