@@ -7,3 +7,6 @@
 [submodule "group_foundation/jmsd_tps_poco_cpp"]
 	path = group_foundation/jmsd_tps_poco_cpp
 	url = https://github.com/jiteman/jmsd_tps_poco_cpp.git
+[submodule "group_media/jmsd_tps_sfml"]
+	path = group_media/jmsd_tps_sfml
+	url = https://github.com/jiteman/jmsd_tps_sfml.git
