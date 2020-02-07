@@ -10,3 +10,6 @@
 [submodule "group_media/jmsd_tps_sfml"]
 	path = group_media/jmsd_tps_sfml
 	url = https://github.com/jiteman/jmsd_tps_sfml.git
+[submodule "group_media/jmsd_tps_openal_soft"]
+	path = group_media/jmsd_tps_openal_soft
+	url = https://github.com/jiteman/jmsd_tps_openal_soft.git
