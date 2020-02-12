@@ -16,3 +16,9 @@
 [submodule "group_media/jmsd_tps_sdl"]
 	path = group_media/jmsd_tps_sdl
 	url = https://github.com/jiteman/jmsd_tps_sdl.git
+[submodule "group_media/jmsd_tps_flac"]
+	path = group_media/jmsd_tps_flac
+	url = https://github.com/jiteman/jmsd_tps_flac.git
+[submodule "group_media/jmsd_tps_vorbis"]
+	path = group_media/jmsd_tps_vorbis
+	url = https://github.com/jiteman/jmsd_tps_vorbis.git
