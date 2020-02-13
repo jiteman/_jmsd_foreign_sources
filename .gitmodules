@@ -22,3 +22,6 @@
 [submodule "group_media/jmsd_tps_vorbis"]
 	path = group_media/jmsd_tps_vorbis
 	url = https://github.com/jiteman/jmsd_tps_vorbis.git
+[submodule "group_media/jmsd_tps_ogg"]
+	path = group_media/jmsd_tps_ogg
+	url = https://github.com/jiteman/jmsd_tps_ogg.git
