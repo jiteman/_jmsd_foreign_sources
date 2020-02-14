@@ -28,3 +28,6 @@
 [submodule "group_media/jmsd_tps_freetype"]
 	path = group_media/jmsd_tps_freetype
 	url = https://github.com/jiteman/jmsd_tps_freetype.git
+[submodule "group_media/jmsd_tps_zlib"]
+	path = group_media/jmsd_tps_zlib
+	url = https://github.com/jiteman/jmsd_tps_zlib.git
