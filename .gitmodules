@@ -25,3 +25,6 @@
 [submodule "group_media/jmsd_tps_ogg"]
 	path = group_media/jmsd_tps_ogg
 	url = https://github.com/jiteman/jmsd_tps_ogg.git
+[submodule "group_media/jmsd_tps_freetype"]
+	path = group_media/jmsd_tps_freetype
+	url = https://github.com/jiteman/jmsd_tps_freetype.git
