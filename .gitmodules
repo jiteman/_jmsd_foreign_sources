@@ -34,3 +34,9 @@
 [submodule "group_media/jmsd_tps_glew_cmake"]
 	path = group_media/jmsd_tps_glew_cmake
 	url = https://github.com/jiteman/jmsd_tps_glew_cmake.git
+[submodule "group_media/jmsd_tps_glut"]
+	path = group_media/jmsd_tps_glut
+	url = https://github.com/jiteman/jmsd_tps_glut.git
+[submodule "group_media/jmsd_tps_alut"]
+	path = group_media/jmsd_tps_alut
+	url = https://github.com/jiteman/jmsd_tps_alut.git
