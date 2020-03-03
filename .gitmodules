@@ -31,3 +31,6 @@
 [submodule "group_media/jmsd_tps_zlib"]
 	path = group_media/jmsd_tps_zlib
 	url = https://github.com/jiteman/jmsd_tps_zlib.git
+[submodule "group_media/jmsd_tps_glew_cmake"]
+	path = group_media/jmsd_tps_glew_cmake
+	url = https://github.com/jiteman/jmsd_tps_glew_cmake.git
