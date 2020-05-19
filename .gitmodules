@@ -40,3 +40,6 @@
 [submodule "group_media/jmsd_tps_alut"]
 	path = group_media/jmsd_tps_alut
 	url = https://github.com/jiteman/jmsd_tps_alut.git
+[submodule "group_media/jmsd_tps_png"]
+	path = group_media/jmsd_tps_png
+	url = https://github.com/jiteman/jmsd_tps_png.git
